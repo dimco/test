@@ -9,7 +9,7 @@
 
 // Override charset
 @header('content-type: text/html; charset=utf-8');
-echo 1;
+echo 15;
 
 // Check for minimum supported PHP version
 if (version_compare(PHP_VERSION, '5.3.0') < 0) {
